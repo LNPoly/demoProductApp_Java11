@@ -47,6 +47,8 @@ La app está diseñada para demostrar el manejo de una base de datos básica, pe
   
   - Cliente de Pruebas: Postman
 
+  - IDE: IntelliJ 2024 3.1.1 (Comunity Edition)
+
 ## Dependencias
   - Lombok: Facilita la generación de código repetitivo (getters, setters, constructores, etc.).
   
@@ -108,6 +110,8 @@ The app is designed to demonstrate the management of a basic database, enabling 
   - Database: H2 (In-memory database)
 
   - Testing Client: Postman
+
+  - IDE: IntelliJ 2024 3.1.1 (Comunity Edition)
 
 ## Dependencies
   - Lombok: Simplifies the generation of repetitive code (getters, setters, constructors, etc.).
