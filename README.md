@@ -64,16 +64,18 @@ The app is designed to demonstrate the management of a basic database, enabling 
 
 ## Implemented Functionalities
 **Product Creation**
-  - Attributes:
-    - Product ID
-    
-    - Name
-    
-    - Description
-    
-    - Quantity
-    
-    - Price
+
+- Attributes:
+  
+  - Product ID
+  
+  - Name
+  
+  - Description
+  
+  - Quantity
+  
+  - Price
 
 ## Product Listing
   - Sorting:
@@ -83,7 +85,7 @@ The app is designed to demonstrate the management of a basic database, enabling 
   - By ID or Name:
     - Allows searching for a specific product by entering its ID or name.
 
-##Product Update
+## Product Update
   - Editing:
     - Once the product is located, any of its attributes (name, description, quantity, or price) can be modified.
 
@@ -91,11 +93,11 @@ The app is designed to demonstrate the management of a basic database, enabling 
   - Physical Deletion:
     - Permanently removes the product record from the database by using its ID.
 
-##Future Improvement Recommendations
+## Future Improvement Recommendations
   - Name-Based Listing for Search:
     - Implement a listing that shows all matches for a given name to facilitate the identification of similar or duplicate products.
 
-##Logical Deletion and Restoration:
+## Logical Deletion and Restoration:
   - Develop a logical deletion mechanism to prevent accidental removal of products, while allowing for restoration without data loss.
 
 ## Tools Used
