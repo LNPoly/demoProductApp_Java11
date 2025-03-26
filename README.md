@@ -19,17 +19,17 @@ La app está diseñada para demostrar el manejo de una base de datos básica, pe
   
   - Precio
 
-## Listado de Productos
-  - Se muestra una lista completa de todos los productos creados, ordenados por precio de menor a mayor.
+**Listado de Productos**
+- Se muestra una lista completa de todos los productos creados, ordenados por precio de menor a mayor.
 
-## Búsqueda de Productos
-  - Por ID o Nombre: Permite la búsqueda de un producto específico mediante el ingreso del ID o nombre.
+**Búsqueda de Productos**
+- Por ID o Nombre: Permite la búsqueda de un producto específico mediante el ingreso del ID o nombre.
 
-## Actualización de Productos
-  - Una vez localizado el producto, se pueden modificar cualquiera de sus atributos: nombre, descripción, cantidad o precio.
+**Actualización de Productos**
+- Una vez localizado el producto, se pueden modificar cualquiera de sus atributos: nombre, descripción, cantidad o precio.
 
-## Eliminación de Productos
-  - Elimina de forma definitiva el registro del producto de la base de datos utilizando su ID.
+**Eliminación de Productos**
+- Elimina de forma definitiva el registro del producto de la base de datos utilizando su ID.
 
 ## Recomendaciones de Mejora a Futuro
   - Listado de Búsqueda por Nombre:
@@ -77,19 +77,19 @@ The app is designed to demonstrate the management of a basic database, enabling 
   
   - Price
 
-## Product Listing
+**Product Listing**
   - Sorting:
     - A complete list of all created products is displayed, sorted by price in ascending order.
 
-## Product Search
+**Product Search**
   - By ID or Name:
     - Allows searching for a specific product by entering its ID or name.
 
-## Product Update
+**Product Update**
   - Editing:
     - Once the product is located, any of its attributes (name, description, quantity, or price) can be modified.
 
-## Product Deletion
+**Product Deletion**
   - Physical Deletion:
     - Permanently removes the product record from the database by using its ID.
 
